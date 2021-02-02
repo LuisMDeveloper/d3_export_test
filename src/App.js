@@ -3,6 +3,7 @@ import BarChart from './BarChart';
 import './App.css';
 import Bullet from "./Bullet";
 
+//Field
 const geojson1 = {
   "type": "FeatureCollection",
   "features": [
@@ -880,6 +881,7 @@ const geojson1 = {
   ]
 };
 
+//D3 example
 const geojson2 = {
   "type": "FeatureCollection",
   "features": [
